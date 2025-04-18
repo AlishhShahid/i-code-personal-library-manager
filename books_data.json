@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Chem is Try",
+        "author": "Alishh Shahid",
+        "year": "2025",
+        "genre": "chemistry",
+        "read": true
+    },
+    {
+        "title": "Chem Codex",
+        "author": "Alishh Shahid",
+        "year": "2025",
+        "genre": "chemistry",
+        "read": false
+    }
+]
